@@ -478,6 +478,7 @@
 - Design a batched inference system where 100 requests take the same time as 1.
   - Answer: [Continuous Batching in LLMs](https://outcomeschool.com/blog/continuous-batching-in-llms)
 - Design the serving stack for a Claude-scale LLM API. Maximise GPU utilisation without wrecking p99 latency.
+  - Answer: [LLM Inference Optimization](https://outcomeschool.com/blog/llm-inference-optimization)
 
 #### Agents and Tool Use
 
@@ -679,6 +680,7 @@
 #### Inference, Serving and GPU Performance
 
 - You need to serve a Llama-class 70B+ model to hundreds of millions of assistant users. What does the serving stack look like and where does the money go?
+  - Answer: [LLM Inference Optimization](https://outcomeschool.com/blog/llm-inference-optimization)
 
 #### Agents and Tool Use
 
@@ -855,6 +857,7 @@
 #### Inference, Serving and GPU Performance
 
 - Sketch how you would serve a 671B-parameter MoE model with low latency under GPU-memory constraints.
+  - Answer: [LLM Inference Optimization](https://outcomeschool.com/blog/llm-inference-optimization) 
 
 #### Fine-Tuning, Post-Training and Alignment
 
@@ -1425,6 +1428,7 @@
 #### AI System Design
 
 - Design a serverless inference platform serving 100+ open models on a shared GPU fleet.
+  - Answer: [LLM Inference Optimization](https://outcomeschool.com/blog/llm-inference-optimization)
 
 #### Applied and Forward-Deployed Scenarios
 

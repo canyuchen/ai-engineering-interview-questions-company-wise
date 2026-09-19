@@ -147,7 +147,7 @@
   - Answer: [Decoding InstructGPT](https://outcomeschool.com/blog/decoding-instructgpt) and [Reinforcement Learning from Human Feedback (RLHF)](https://outcomeschool.com/blog/reinforcement-learning-from-human-feedback-rlhf)
 - Compare greedy, beam search, top-k, top-p and temperature sampling. When does each fail?
   - Asked at: [Google DeepMind](#google-deepmind-and-google-ai), [Apple](#apple), [Perplexity](#perplexity)
-  - Answer: [How does Temperature control LLM output?](https://outcomeschool.com/blog/how-does-temperature-control-llm-output)
+  - Answer: [How does Temperature control LLM output?](https://outcomeschool.com/blog/how-does-temperature-control-llm-output) and [How do Top-k and Top-p Sampling work?](https://outcomeschool.com/blog/how-do-top-k-and-top-p-sampling-work)
 - What is the lost-in-the-middle problem in long contexts and how do you address it?
   - Asked at: [Moonshot AI](#moonshot-ai-kimi)
   - Answer: [The Lost in the Middle Problem in LLMs](https://outcomeschool.com/blog/lost-in-the-middle-problem-in-llms)
@@ -421,7 +421,7 @@
   - Answer: [Byte Pair Encoding](https://outcomeschool.com/blog/bpe-in-llms)
 - Implement top-k, top-p and temperature sampling over a logits vector.
   - Asked at: [Google DeepMind](#google-deepmind-and-google-ai), [Apple](#apple)
-  - Answer: [How does Temperature control LLM output?](https://outcomeschool.com/blog/how-does-temperature-control-llm-output)
+  - Answer: [How does Temperature control LLM output?](https://outcomeschool.com/blog/how-does-temperature-control-llm-output) and [How do Top-k and Top-p Sampling work?](https://outcomeschool.com/blog/how-do-top-k-and-top-p-sampling-work)
 - Implement an LRU cache with O(1) get/put, then add TTL.
   - Asked at: [OpenAI](#openai), [xAI](#xai), [Alibaba](#alibaba-qwen)
 - Implement a token-bucket rate limiter, then make it distributed.

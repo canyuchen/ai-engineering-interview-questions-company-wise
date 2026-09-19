@@ -404,7 +404,7 @@
   - Answer: [LLM Routing](https://outcomeschool.com/blog/llm-routing) and [How does Semantic Caching work?](https://outcomeschool.com/blog/how-does-semantic-caching-work)
 - Design the serving stack for a consumer chat assistant at hundreds of millions of users.
   - Asked at: [Anthropic](#anthropic), [OpenAI](#openai), [Google DeepMind](#google-deepmind-and-google-ai), [Meta](#meta-superintelligence-labs-fair-llama), [xAI](#xai)
-  - Answer: [Inside ChatGPT: What Happens After You Hit Enter](https://outcomeschool.substack.com/p/inside-chatgpt-what-happens-after)
+  - Answer: [Inside ChatGPT: What Happens After You Hit Enter](https://outcomeschool.substack.com/p/inside-chatgpt-what-happens-after) and [LLM Inference Optimization](https://outcomeschool.com/blog/llm-inference-optimization)
 
 ### Coding and Data Structures
 

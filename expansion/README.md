@@ -4,15 +4,15 @@
 
 Snapshot: 2026-09-21T04:08:09+00:00
 
-**3763 unique normalized prompts = 470 inherited + 3293 additions.**
+**3761 unique normalized prompts = 469 inherited + 3292 additions.**
 
-[Sources and license audit](SOURCES.md) · [Machine-readable data](questions.json) · [Statistics](stats.json) · [Offline search](index.html) · [中文说明](../EXPANSION.zh-CN.md)
+[Review and raw snapshot](REVIEW.md) · [Sources and license audit](SOURCES.md) · [Machine-readable data](questions.json) · [Statistics](stats.json) · [Offline search](index.html) · [中文说明](../EXPANSION.zh-CN.md)
 
 ## Types
 
-- `legacy_unverified`: 470
+- `legacy_unverified`: 469
 - `derived_practice`: 150
-- `community_question_bank`: 3143
+- `community_question_bank`: 3142
 
 ## Company labels
 
@@ -94,16 +94,16 @@ Snapshot: 2026-09-21T04:08:09+00:00
 - [agents](topics/agents.md): 465 (topic membership can overlap)
 - [alignment](topics/alignment.md): 90 (topic membership can overlap)
 - [behavioral](topics/behavioral.md): 30 (topic membership can overlap)
-- [coding](topics/coding.md): 294 (topic membership can overlap)
+- [coding](topics/coding.md): 293 (topic membership can overlap)
 - [context_engineering](topics/context_engineering.md): 360 (topic membership can overlap)
 - [data_engineering](topics/data_engineering.md): 23 (topic membership can overlap)
 - [distributed_training](topics/distributed_training.md): 23 (topic membership can overlap)
 - [evaluation](topics/evaluation.md): 373 (topic membership can overlap)
 - [experimentation](topics/experimentation.md): 25 (topic membership can overlap)
-- [general](topics/general.md): 928 (topic membership can overlap)
+- [general](topics/general.md): 927 (topic membership can overlap)
 - [gpu_kernels](topics/gpu_kernels.md): 19 (topic membership can overlap)
 - [inference](topics/inference.md): 268 (topic membership can overlap)
-- [llm_architecture](topics/llm_architecture.md): 249 (topic membership can overlap)
+- [llm_architecture](topics/llm_architecture.md): 248 (topic membership can overlap)
 - [ml_foundations](topics/ml_foundations.md): 131 (topic membership can overlap)
 - [multimodal](topics/multimodal.md): 116 (topic membership can overlap)
 - [recommendation](topics/recommendation.md): 48 (topic membership can overlap)

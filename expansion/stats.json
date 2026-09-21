@@ -1,15 +1,15 @@
 {
   "generated_at": "2026-09-21T04:08:09+00:00",
   "baseline_commit": "14c0106e2794bd4d355e6a9145b375a19b912bac",
-  "baseline_questions": 470,
-  "new_questions": 3293,
-  "total_questions": 3763,
+  "baseline_questions": 469,
+  "new_questions": 3292,
+  "total_questions": 3761,
   "normalized_duplicates_merged": 1273,
   "deduplication": "Unicode NFKC + casefold + punctuation/whitespace removal; NOT semantic deduplication",
   "counts_by_kind": {
-    "legacy_unverified": 470,
+    "legacy_unverified": 469,
     "derived_practice": 150,
-    "community_question_bank": 3143
+    "community_question_bank": 3142
   },
   "source_count": 34,
   "source_statuses": {
@@ -126,5 +126,9 @@
   },
   "topic_count": 20,
   "baseline_count_warning": "Extracted normalized candidates, not a manual census of all original questions.",
-  "company_label_warning": "Inherited company claims, grouped sections, source-file labels or practice targets; none prove actual interview occurrence."
+  "company_label_warning": "Inherited company claims, grouped sections, source-file labels or practice targets; none prove actual interview occurrence.",
+  "review_version": 1,
+  "initial_collection_total": 3763,
+  "review_excluded": 2,
+  "review_extra_duplicates": 0
 }

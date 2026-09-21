@@ -2,7 +2,6 @@
 
 > Automatic keyword tags; counts overlap across topics. Machine-extracted candidates require editorial review. These are not verified company interviews.
 
-- **legacy-8894dda1eefffb** `legacy_unverified` — How to use this [Source / reading](https://github.com/canyuchen/ai-engineering-interview-questions-company-wise/blob/14c0106e2794bd4d355e6a9145b375a19b912bac/README.md#L103)
 - **legacy-c164e2b7ed39f1** `legacy_unverified` — Wherever we have an answer, it is linked right below the question. We will keep adding answers. [Source / reading](https://github.com/canyuchen/ai-engineering-interview-questions-company-wise/blob/14c0106e2794bd4d355e6a9145b375a19b912bac/README.md#L108)
 - **legacy-ec59b7d5c237a7** `legacy_unverified` — Explain FlashAttention. It does not reduce FLOPs, so why is it faster? [Source / reading](https://github.com/canyuchen/ai-engineering-interview-questions-company-wise/blob/14c0106e2794bd4d355e6a9145b375a19b912bac/README.md#L129)
 - **legacy-46271da682806e** `legacy_unverified` — What do the Chinchilla scaling laws say, and how do they differ from earlier scaling intuitions? [Source / reading](https://github.com/canyuchen/ai-engineering-interview-questions-company-wise/blob/14c0106e2794bd4d355e6a9145b375a19b912bac/README.md#L140)
@@ -691,7 +690,7 @@
 - **q-7f7b13383b4658** `community_question_bank` — What is the EU AI Act and what does it mean for AI engineers? [Source / reading](https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/README.md#L1019)
 - **q-52b7d9ff6aa081** `community_question_bank` — What Interviewers Expect at Junior Level [Source / reading](https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/by-experience/junior.md#L9)
 - **q-5ab0feb3941b57** `community_question_bank` — Temperature, top-p, top-k — what do they control? [Source / reading](https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/by-experience/junior.md#L30)
-- **q-935053635f8f6b** `community_question_bank` — Why does temperature = 0 produce deterministic outputs? [Source / reading](https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/by-experience/junior.md#L39)
+- **q-935053635f8f6b** `community_question_bank` — Does temperature = 0 guarantee deterministic outputs? Distinguish decoding policy from end-to-end reproducibility. [Source / reading](https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/by-experience/junior.md#L39)
 - **q-e7970c777cf85c** `community_question_bank` — What&#x27;s the difference between GPT (decoder-only) and BERT (encoder-only)? [Source / reading](https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/by-experience/junior.md#L40)
 - **q-32f022e2bdf6c0** `community_question_bank` — Chunking: why do we chunk documents? [Source / reading](https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/by-experience/junior.md#L49)
 - **q-1bd56738e710cf** `community_question_bank` — How does ANN (approximate nearest neighbor) search work? [Source / reading](https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/by-experience/junior.md#L84)

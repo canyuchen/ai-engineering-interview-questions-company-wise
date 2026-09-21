@@ -1,7 +1,12 @@
 name: Build sourced interview expansion
 on:
   pull_request:
-    types: [opened]
+    types: [opened, synchronize, reopened]
+    paths:
+      - 'tools/**'
+      - 'expansion/seeds.json'
+      - 'expansion/curated.json'
+      - '.github/workflows/expand-catalog.yml'
 permissions:
   contents: write
 concurrency:
@@ -18,11 +23,13 @@ jobs:
           ref: ${{ github.head_ref }}
           fetch-depth: 0
       - name: Test parser and collection pipeline
-        run: python tools/test_catalog.py
-      - name: Collect public sources and render catalog
+        run: |
+          python tools/test_catalog.py
+          python tools/rebuild.py --self-test
+      - name: Collect, filter and render sourced catalog
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python tools/collect_sources.py
+        run: python tools/rebuild.py
       - name: Validate provenance and counts
         run: python tools/question_bank.py validate
       - name: Commit catalog to the expansion branch only
@@ -34,7 +41,7 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add README.md expansion/
           if ! git diff --cached --quiet; then
-            git commit -m 'data: collect licensed question candidates with immutable provenance'
+            git commit -m 'data: rebuild licensed, quality-filtered interview catalog with provenance'
             git push origin "HEAD:$HEAD_BRANCH"
           fi
       - name: Package offline catalog

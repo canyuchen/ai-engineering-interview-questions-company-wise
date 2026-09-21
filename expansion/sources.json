@@ -3,10 +3,10 @@
     "id": "ombharatiya--AI-Engineer-Interview-Questions",
     "repository": "ombharatiya/AI-Engineer-Interview-Questions",
     "url": "https://github.com/ombharatiya/AI-Engineer-Interview-Questions",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "indexed",
-    "questions_added": 1048,
-    "duplicates_merged": 310,
+    "questions_added": 944,
+    "duplicates_merged": 249,
     "kind": "community_question_bank",
     "answers_reviewed": false,
     "commit": "108530e6bf6b118b23599668d8e1c9fdae054fed",
@@ -16,16 +16,15 @@
     "license": "MIT",
     "license_file": "licenses/ombharatiya--AI-Engineer-Interview-Questions.txt",
     "markdown_files_scanned": 87,
-    "initial_candidates_added": 1054,
-    "initial_questions_added": 1048
+    "initial_candidates_added": 946
   },
   {
     "id": "amitshekhariitbhu--ai-engineering-interview-questions",
     "repository": "amitshekhariitbhu/ai-engineering-interview-questions",
     "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "indexed",
-    "questions_added": 525,
+    "questions_added": 531,
     "duplicates_merged": 7,
     "kind": "community_question_bank",
     "answers_reviewed": false,
@@ -36,16 +35,15 @@
     "license": "Apache-2.0",
     "license_file": "licenses/amitshekhariitbhu--ai-engineering-interview-questions.txt",
     "markdown_files_scanned": 1,
-    "initial_candidates_added": 525,
-    "initial_questions_added": 525
+    "initial_candidates_added": 531
   },
   {
     "id": "amitshekhariitbhu--machine-learning-interview-questions",
     "repository": "amitshekhariitbhu/machine-learning-interview-questions",
     "url": "https://github.com/amitshekhariitbhu/machine-learning-interview-questions",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "indexed",
-    "questions_added": 274,
+    "questions_added": 275,
     "duplicates_merged": 43,
     "kind": "community_question_bank",
     "answers_reviewed": false,
@@ -56,14 +54,13 @@
     "license": "Apache-2.0",
     "license_file": "licenses/amitshekhariitbhu--machine-learning-interview-questions.txt",
     "markdown_files_scanned": 1,
-    "initial_candidates_added": 274,
-    "initial_questions_added": 274
+    "initial_candidates_added": 275
   },
   {
     "id": "llmgenai--LLMInterviewQuestions",
     "repository": "llmgenai/LLMInterviewQuestions",
     "url": "https://github.com/llmgenai/LLMInterviewQuestions",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only_license_not_found",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -73,14 +70,13 @@
     "description": "This repository contains LLM (Large language model) interview question asked in top companies like Google, Nvidia , Meta , Microsoft & fortune 500 companies.",
     "default_branch": "main",
     "snapshot_url": "https://github.com/llmgenai/LLMInterviewQuestions/tree/68f74ce0b077a50dfc4a24ef5f6a7782d3406435",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "Devinterview-io--llms-interview-questions",
     "repository": "Devinterview-io/llms-interview-questions",
     "url": "https://github.com/Devinterview-io/llms-interview-questions",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only_license_not_found",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -90,17 +86,16 @@
     "description": "🟣 LLMs interview questions and answers to help you prepare for your next machine learning and data science interview in 2026.",
     "default_branch": "main",
     "snapshot_url": "https://github.com/Devinterview-io/llms-interview-questions/tree/88a155109e0d8718f2688c331671330b47ed08cd",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "KalyanKS-NLP--LLM-Interview-Questions-and-Answers-Hub",
     "repository": "KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
     "url": "https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "indexed",
-    "questions_added": 80,
-    "duplicates_merged": 0,
+    "questions_added": 194,
+    "duplicates_merged": 1,
     "kind": "community_question_bank",
     "answers_reviewed": false,
     "commit": "280c8b642acd65006b11aad76633826a867f3a63",
@@ -110,14 +105,13 @@
     "license": "Apache-2.0",
     "license_file": "licenses/KalyanKS-NLP--LLM-Interview-Questions-and-Answers-Hub.txt",
     "markdown_files_scanned": 42,
-    "initial_candidates_added": 80,
-    "initial_questions_added": 80
+    "initial_candidates_added": 194
   },
   {
     "id": "Devinterview-io--llmops-interview-questions",
     "repository": "Devinterview-io/llmops-interview-questions",
     "url": "https://github.com/Devinterview-io/llmops-interview-questions",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only_license_not_found",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -127,14 +121,13 @@
     "description": "🟣 LLMOps interview questions and answers to help you prepare for your next machine learning and data science interview in 2026.",
     "default_branch": "main",
     "snapshot_url": "https://github.com/Devinterview-io/llmops-interview-questions/tree/364649aa9b2ed947285aafa595fe52fb2a1ff346",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "JoshithReddyAleti--AI_Engineer_Interview_Prep",
     "repository": "JoshithReddyAleti/AI_Engineer_Interview_Prep",
     "url": "https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only_license_not_found",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -144,14 +137,13 @@
     "description": "MAANG-level AI Engineer interview prep mapped to the AI Engineering Roadmap 2026 newsletter. Deep conceptual, coding, system design & behavioral questions with detailed answers. Covers LLMs, Python for AI, tool calling, agents, RAG, embeddings, vector DBs, eval frameworks & more. Biweekly added with each episode.",
     "default_branch": "main",
     "snapshot_url": "https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/7b8094d8a9b28fa0d0e2c9c10662fc0cd035e2ce",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "atalupadhyay--LLMs-Interview-Prep-Guide",
     "repository": "atalupadhyay/LLMs-Interview-Prep-Guide",
     "url": "https://github.com/atalupadhyay/LLMs-Interview-Prep-Guide",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only_license_not_allowlisted",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -162,14 +154,13 @@
     "default_branch": "main",
     "snapshot_url": "https://github.com/atalupadhyay/LLMs-Interview-Prep-Guide/tree/35ecc020cbe46839c7b2e61e1de29bcaa7452cdc",
     "license": "GPL-3.0",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "MisterBooo--llm-interview-questions",
     "repository": "MisterBooo/llm-interview-questions",
     "url": "https://github.com/MisterBooo/llm-interview-questions",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only_license_not_allowlisted",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -180,14 +171,13 @@
     "default_branch": "main",
     "snapshot_url": "https://github.com/MisterBooo/llm-interview-questions/tree/320048c20288c2d3afb695f97a55e91315c60fdf",
     "license": "CC-BY-SA-4.0",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "DolbyUUU--Awesome-LLM-Interview-Questions-and-Answers",
     "repository": "DolbyUUU/Awesome-LLM-Interview-Questions-and-Answers",
     "url": "https://github.com/DolbyUUU/Awesome-LLM-Interview-Questions-and-Answers",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only_license_not_found",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -197,14 +187,13 @@
     "description": "大模型算法工程师、大模型Agent开发工程师面试：常见题目和答案",
     "default_branch": "main",
     "snapshot_url": "https://github.com/DolbyUUU/Awesome-LLM-Interview-Questions-and-Answers/tree/38af9e5847072eb33d652906ea36b482616cc932",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "pubalisen--ai-ml-interview-deep-dives",
     "repository": "pubalisen/ai-ml-interview-deep-dives",
     "url": "https://github.com/pubalisen/ai-ml-interview-deep-dives",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only_license_not_found",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -214,17 +203,16 @@
     "description": "AI & ML Engineering Interview Questions — Deep Technical Breakdowns. 300+ real interview questions with detailed mechanical answers for AI Engineer, LLM Engineer, Gen AI Engineer, and MLOps roles.",
     "default_branch": "main",
     "snapshot_url": "https://github.com/pubalisen/ai-ml-interview-deep-dives/tree/05cbb4c7383de742c90ab5e811130f658a4269ef",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "sreekanth-madisetty--Awesome-LLM-Interview-Questions",
     "repository": "sreekanth-madisetty/Awesome-LLM-Interview-Questions",
     "url": "https://github.com/sreekanth-madisetty/Awesome-LLM-Interview-Questions",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "indexed",
-    "questions_added": 28,
-    "duplicates_merged": 1,
+    "questions_added": 30,
+    "duplicates_merged": 0,
     "kind": "community_question_bank",
     "answers_reviewed": false,
     "commit": "762c467c8d85187a265a35c74eb3211230072512",
@@ -234,14 +222,13 @@
     "license": "Apache-2.0",
     "license_file": "licenses/sreekanth-madisetty--Awesome-LLM-Interview-Questions.txt",
     "markdown_files_scanned": 8,
-    "initial_candidates_added": 30,
-    "initial_questions_added": 28
+    "initial_candidates_added": 31
   },
   {
     "id": "JonnesLin--mle-leetcode",
     "repository": "JonnesLin/mle-leetcode",
     "url": "https://github.com/JonnesLin/mle-leetcode",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only_license_not_allowlisted",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -252,14 +239,13 @@
     "default_branch": "main",
     "snapshot_url": "https://github.com/JonnesLin/mle-leetcode/tree/490385044b103e4dd599150183e14b05d00c9ab3",
     "license": "NOASSERTION",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "shanselman--LLMStudyGuide",
     "repository": "shanselman/LLMStudyGuide",
     "url": "https://github.com/shanselman/LLMStudyGuide",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only_license_not_found",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -269,14 +255,13 @@
     "description": "Interactive study guide for LLM interview questions with 50 Q&As, extended context, progress tracking, and study resources. Based    on Hao Hoang's comprehensive PDF guide.",
     "default_branch": "master",
     "snapshot_url": "https://github.com/shanselman/LLMStudyGuide/tree/d86558c53ed44eb4709d2e6423107e143e0d1601",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "bicced--ai-engineer-interview-handbook",
     "repository": "bicced/ai-engineer-interview-handbook",
     "url": "https://github.com/bicced/ai-engineer-interview-handbook",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only_license_not_allowlisted",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -287,17 +272,16 @@
     "default_branch": "main",
     "snapshot_url": "https://github.com/bicced/ai-engineer-interview-handbook/tree/8656c40ebe8ad1a5ea2aa20491806381d6d9fa51",
     "license": "NOASSERTION",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "JustInCache--awesome-ai-interviews",
     "repository": "JustInCache/awesome-ai-interviews",
     "url": "https://github.com/JustInCache/awesome-ai-interviews",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "indexed",
-    "questions_added": 356,
-    "duplicates_merged": 554,
+    "questions_added": 302,
+    "duplicates_merged": 671,
     "kind": "community_question_bank",
     "answers_reviewed": false,
     "commit": "61d1d99635ef9cbd97f57fee7a03a8393df561e0",
@@ -307,14 +291,13 @@
     "license": "Apache-2.0",
     "license_file": "licenses/JustInCache--awesome-ai-interviews.txt",
     "markdown_files_scanned": 125,
-    "initial_candidates_added": 565,
-    "initial_questions_added": 356
+    "initial_candidates_added": 341
   },
   {
     "id": "spawn08--agentic-ai-interview-kit",
     "repository": "spawn08/agentic-ai-interview-kit",
     "url": "https://github.com/spawn08/agentic-ai-interview-kit",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only_license_not_found",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -324,17 +307,16 @@
     "description": "Comprehensive open-source study guide for mastering agentic AI — from LLM foundations through production system design and interview preparation. 60+ in-depth pages covering theory, design patterns, frameworks, runnable code, system design case studies, and interview questions.",
     "default_branch": "main",
     "snapshot_url": "https://github.com/spawn08/agentic-ai-interview-kit/tree/0403f94cea82675239cfab141d52576f4067c091",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "mchittineni--ultimate-ai-engineering-guide",
     "repository": "mchittineni/ultimate-ai-engineering-guide",
     "url": "https://github.com/mchittineni/ultimate-ai-engineering-guide",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "indexed",
-    "questions_added": 386,
-    "duplicates_merged": 210,
+    "questions_added": 390,
+    "duplicates_merged": 412,
     "kind": "community_question_bank",
     "answers_reviewed": false,
     "commit": "b8079c91ad5c0f778d23b6b89cd294312a65c282",
@@ -344,14 +326,13 @@
     "license": "MIT",
     "license_file": "licenses/mchittineni--ultimate-ai-engineering-guide.txt",
     "markdown_files_scanned": 220,
-    "initial_candidates_added": 493,
-    "initial_questions_added": 386
+    "initial_candidates_added": 495
   },
   {
     "id": "luxuantao--advanced_LLM_interview_notes",
     "repository": "luxuantao/advanced_LLM_interview_notes",
     "url": "https://github.com/luxuantao/advanced_LLM_interview_notes",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only_license_not_found",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -361,14 +342,13 @@
     "description": "大模型进阶面经",
     "default_branch": "main",
     "snapshot_url": "https://github.com/luxuantao/advanced_LLM_interview_notes/tree/fb233d13b9dfc47a78248b349ace2d44f01bf4ef",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "jingtian11--EasyOffer",
     "repository": "jingtian11/EasyOffer",
     "url": "https://github.com/jingtian11/EasyOffer",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only_license_not_found",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -378,14 +358,13 @@
     "description": "《EasyOffer》（<大模型面经合集>）是针对LLM宝宝们量身打造的大模型暑期实习Offer指南，主要记录大模型暑期实习和秋招准备的一些常见大厂手撕代码、大厂面经经验、常见大厂思考题等；小白一个，正在学习ing......有问题各位大佬随时指正，希望大家都能拿到心仪Offer！",
     "default_branch": "main",
     "snapshot_url": "https://github.com/jingtian11/EasyOffer/tree/9aed2cb583a141dce76f24d0e5be82b355dc8843",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "Junvate--LLM-Algorithm-Intern-Guide",
     "repository": "Junvate/LLM-Algorithm-Intern-Guide",
     "url": "https://github.com/Junvate/LLM-Algorithm-Intern-Guide",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only_license_not_found",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -395,14 +374,13 @@
     "description": "🚀 2026届大模型算法岗实习面经 | 包含 DeepSeek/Qwen 技术报告解析、手撕 PPO/RoPE/Transformer、RLHF 核心与八股文 | 持续更新中...",
     "default_branch": "main",
     "snapshot_url": "https://github.com/Junvate/LLM-Algorithm-Intern-Guide/tree/fc164d15b2572b75ddd6c22fd65febe6fbcd3d15",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "EthanLiu6--LLM_knowledge",
     "repository": "EthanLiu6/LLM_knowledge",
     "url": "https://github.com/EthanLiu6/LLM_knowledge",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only_license_not_found",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -412,14 +390,13 @@
     "description": "- 【LLM面经】大模型实习面试指南。手撕代码、面经经验、思考题等。初学者学习ing......欢迎指正错误",
     "default_branch": "main",
     "snapshot_url": "https://github.com/EthanLiu6/LLM_knowledge/tree/1f1ca7cfa6b6098114e8f39a797b7ccad7cfa77d",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "smile-struggler--bagu-killer",
     "repository": "smile-struggler/bagu-killer",
     "url": "https://github.com/smile-struggler/bagu-killer",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "indexed",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -432,16 +409,15 @@
     "license": "MIT",
     "license_file": "licenses/smile-struggler--bagu-killer.txt",
     "markdown_files_scanned": 2,
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "igloomatics--llm-interview-playbook",
     "repository": "igloomatics/llm-interview-playbook",
     "url": "https://github.com/igloomatics/llm-interview-playbook",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "indexed",
-    "questions_added": 40,
+    "questions_added": 47,
     "duplicates_merged": 0,
     "kind": "community_question_bank",
     "answers_reviewed": false,
@@ -452,17 +428,16 @@
     "license": "MIT",
     "license_file": "licenses/igloomatics--llm-interview-playbook.txt",
     "markdown_files_scanned": 21,
-    "initial_candidates_added": 43,
-    "initial_questions_added": 41
+    "initial_candidates_added": 48
   },
   {
     "id": "Exorust--TorchLeet",
     "repository": "Exorust/TorchLeet",
     "url": "https://github.com/Exorust/TorchLeet",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "indexed",
-    "questions_added": 37,
-    "duplicates_merged": 99,
+    "questions_added": 38,
+    "duplicates_merged": 102,
     "kind": "community_question_bank",
     "answers_reviewed": false,
     "commit": "ecc4c637014a5346188d22942276b6989edc09fa",
@@ -472,17 +447,16 @@
     "license": "MIT",
     "license_file": "licenses/Exorust--TorchLeet.txt",
     "markdown_files_scanned": 18,
-    "initial_candidates_added": 40,
-    "initial_questions_added": 37
+    "initial_candidates_added": 40
   },
   {
     "id": "landedjobs--awesome-ai-engineer-interview",
     "repository": "landedjobs/awesome-ai-engineer-interview",
     "url": "https://github.com/landedjobs/awesome-ai-engineer-interview",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "indexed",
-    "questions_added": 368,
-    "duplicates_merged": 49,
+    "questions_added": 365,
+    "duplicates_merged": 212,
     "kind": "community_question_bank",
     "answers_reviewed": false,
     "commit": "7cbbd2d6a9b2e7390c044df345f54318f2a1b865",
@@ -492,14 +466,13 @@
     "license": "MIT",
     "license_file": "licenses/landedjobs--awesome-ai-engineer-interview.txt",
     "markdown_files_scanned": 50,
-    "initial_candidates_added": 375,
-    "initial_questions_added": 368
+    "initial_candidates_added": 372
   },
   {
     "id": "harry-the-nerd--interview-notes-questions",
     "repository": "harry-the-nerd/interview-notes-questions",
     "url": "https://github.com/harry-the-nerd/interview-notes-questions",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -509,14 +482,13 @@
     "description": "Real interview questions and notes provided by darkinterview.com covering OpenAI, Anthropic, xAI, Databricks, Perplexity, Stripe, Rippling, Netflix, Coinbase, Snowflake, Uber and more.",
     "default_branch": "main",
     "snapshot_url": "https://github.com/harry-the-nerd/interview-notes-questions/tree/2d15624f1346be7d4908ba0822644353116fc8ae",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "jhrsya--llm-interview-notes",
     "repository": "jhrsya/llm-interview-notes",
     "url": "https://github.com/jhrsya/llm-interview-notes",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -526,14 +498,13 @@
     "description": "大模型算法工程师面经汇总",
     "default_branch": "main",
     "snapshot_url": "https://github.com/jhrsya/llm-interview-notes/tree/08e383594980a8f80be1978f68c366c60d8fa52a",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "ThomasVonWu--Interview-Note",
     "repository": "ThomasVonWu/Interview-Note",
     "url": "https://github.com/ThomasVonWu/Interview-Note",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -543,14 +514,13 @@
     "description": "Share Interview Questions and Summarize Answers",
     "default_branch": "main",
     "snapshot_url": "https://github.com/ThomasVonWu/Interview-Note/tree/4ca54fa6e78cb2c324ecf71b987fc37f4362e5c1",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "712sir--ai-infra-career",
     "repository": "712sir/ai-infra-career",
     "url": "https://github.com/712sir/ai-infra-career",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -560,14 +530,13 @@
     "description": "大模型推理引擎 / 分布式训练框架 方向求职路线图。覆盖 CUDA 内核编程、vLLM/PyTorch 源码、手撕算法（C++/Python）、八股文、简历迭代、19 家 AI Infra 厂面经（互联网大厂 + AI 芯片 + 端侧 SDK）",
     "default_branch": "master",
     "snapshot_url": "https://github.com/712sir/ai-infra-career/tree/1559229011d66c3ce009e898c9dc65394c649b7d",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "km1994--AIGC-Interview-Book",
     "repository": "km1994/AIGC-Interview-Book",
     "url": "https://github.com/km1994/AIGC-Interview-Book",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -577,14 +546,13 @@
     "description": "【LLMs千面郎君】AIGC 求职面试指南项目涵盖了 **📚 AIGC 求职面经**、**提示词工程**、**大模型面试题专题**、**计算机视觉与感知算法专题**、**深度学习基础与框架专题**、**手撕项目代码专题**、**优异开源资源推荐专题** 等 AIGC 求职你所需要知道的一切~",
     "default_branch": "main",
     "snapshot_url": "https://github.com/km1994/AIGC-Interview-Book/tree/fd6a2f3fd3e7fa9fb38a5303195180a31c538def",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "fiigii--ai-comp",
     "repository": "fiigii/ai-comp",
     "url": "https://github.com/fiigii/ai-comp",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -594,14 +562,13 @@
     "description": "Build a compiler to solve Anthropic's interview challenge.",
     "default_branch": "main",
     "snapshot_url": "https://github.com/fiigii/ai-comp/tree/cdc89e79a7d1c946ff8d20dfaf80e33d1cbce9ee",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
   },
   {
     "id": "anthropics--original_performance_takehome",
     "repository": "anthropics/original_performance_takehome",
     "url": "https://github.com/anthropics/original_performance_takehome",
-    "retrieved_at": "2026-09-21T04:08:09+00:00",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
     "status": "link_only",
     "questions_added": 0,
     "duplicates_merged": 0,
@@ -611,7 +578,140 @@
     "description": "Anthropic's original performance take-home, now open for you to try!",
     "default_branch": "main",
     "snapshot_url": "https://github.com/anthropics/original_performance_takehome/tree/5452f74bd977807ac2e74f3d29432b9df6f25197",
-    "initial_candidates_added": 0,
-    "initial_questions_added": 0
+    "initial_candidates_added": 0
+  },
+  {
+    "id": "alirezadir--AIMLInterviews",
+    "repository": "alirezadir/AIMLInterviews",
+    "url": "https://github.com/alirezadir/AIMLInterviews",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
+    "status": "indexed",
+    "questions_added": 576,
+    "duplicates_merged": 58,
+    "kind": "community_question_bank",
+    "answers_reviewed": false,
+    "commit": "7fcff42fbe73fc0302339d9117d5c3794e3db425",
+    "description": "This repo is meant to serve as a guide for Machine Learning/AI technical interviews. ",
+    "default_branch": "main",
+    "snapshot_url": "https://github.com/alirezadir/AIMLInterviews/tree/7fcff42fbe73fc0302339d9117d5c3794e3db425",
+    "license": "MIT",
+    "license_file": "licenses/alirezadir--AIMLInterviews.txt",
+    "markdown_files_scanned": 69,
+    "initial_candidates_added": 576
+  },
+  {
+    "id": "chiphuyen--ml-interviews-book",
+    "repository": "chiphuyen/ml-interviews-book",
+    "url": "https://github.com/chiphuyen/ml-interviews-book",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
+    "status": "link_only",
+    "questions_added": 0,
+    "duplicates_merged": 0,
+    "kind": "community_question_bank",
+    "answers_reviewed": false,
+    "commit": "2287e82994feb7a3d5d77fb621687ff981752275",
+    "description": "https://huyenchip.com/ml-interviews-book/",
+    "default_branch": "master",
+    "snapshot_url": "https://github.com/chiphuyen/ml-interviews-book/tree/2287e82994feb7a3d5d77fb621687ff981752275",
+    "initial_candidates_added": 0
+  },
+  {
+    "id": "khangich--machine-learning-interview",
+    "repository": "khangich/machine-learning-interview",
+    "url": "https://github.com/khangich/machine-learning-interview",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
+    "status": "link_only",
+    "questions_added": 0,
+    "duplicates_merged": 0,
+    "kind": "community_question_bank",
+    "answers_reviewed": false,
+    "commit": "968a286650c964f8583b73b3e0864475b86f22b6",
+    "description": "Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.",
+    "default_branch": "master",
+    "snapshot_url": "https://github.com/khangich/machine-learning-interview/tree/968a286650c964f8583b73b3e0864475b86f22b6",
+    "initial_candidates_added": 0
+  },
+  {
+    "id": "Sroy20--machine-learning-interview-questions",
+    "repository": "Sroy20/machine-learning-interview-questions",
+    "url": "https://github.com/Sroy20/machine-learning-interview-questions",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
+    "status": "link_only_license_not_found",
+    "questions_added": 0,
+    "duplicates_merged": 0,
+    "kind": "community_question_bank",
+    "answers_reviewed": false,
+    "commit": "7534de10c93536c9bc84edabfcd562cf07f70263",
+    "description": "This repository is to prepare for Machine Learning interviews. ",
+    "default_branch": "master",
+    "snapshot_url": "https://github.com/Sroy20/machine-learning-interview-questions/tree/7534de10c93536c9bc84edabfcd562cf07f70263",
+    "initial_candidates_added": 0
+  },
+  {
+    "id": "youssefHosni--Data-Science-Interview-Questions-Answers",
+    "repository": "youssefHosni/Data-Science-Interview-Questions-Answers",
+    "url": "https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
+    "status": "link_only_license_not_found",
+    "questions_added": 0,
+    "duplicates_merged": 0,
+    "kind": "community_question_bank",
+    "answers_reviewed": false,
+    "commit": "20ebf4e6fb2deac82163e0b96a3420a29bf4b85f",
+    "description": "Curated list of data science interview questions and answers",
+    "default_branch": "main",
+    "snapshot_url": "https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers/tree/20ebf4e6fb2deac82163e0b96a3420a29bf4b85f",
+    "initial_candidates_added": 0
+  },
+  {
+    "id": "youssefHosni--Data-Science-Interview-Preperation-Resources",
+    "repository": "youssefHosni/Data-Science-Interview-Preperation-Resources",
+    "url": "https://github.com/youssefHosni/Data-Science-Interview-Preperation-Resources",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
+    "status": "link_only_license_not_found",
+    "questions_added": 0,
+    "duplicates_merged": 0,
+    "kind": "community_question_bank",
+    "answers_reviewed": false,
+    "commit": "09d0a72caa33fe76abb365779c44d3b5d0ec409d",
+    "description": "Resoruce to help you to prepare for your comming data science interviews ",
+    "default_branch": "main",
+    "snapshot_url": "https://github.com/youssefHosni/Data-Science-Interview-Preperation-Resources/tree/09d0a72caa33fe76abb365779c44d3b5d0ec409d",
+    "initial_candidates_added": 0
+  },
+  {
+    "id": "wdndev--llm_interview_note",
+    "repository": "wdndev/llm_interview_note",
+    "url": "https://github.com/wdndev/llm_interview_note",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
+    "status": "link_only_license_not_found",
+    "questions_added": 0,
+    "duplicates_merged": 0,
+    "kind": "community_question_bank",
+    "answers_reviewed": false,
+    "commit": "581d54dd9a72e1d0a4eb28ae50859db83901b783",
+    "description": "主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题",
+    "default_branch": "main",
+    "snapshot_url": "https://github.com/wdndev/llm_interview_note/tree/581d54dd9a72e1d0a4eb28ae50859db83901b783",
+    "initial_candidates_added": 0
+  },
+  {
+    "id": "anandtopu--AIEngineer",
+    "repository": "anandtopu/AIEngineer",
+    "url": "https://github.com/anandtopu/AIEngineer",
+    "retrieved_at": "2026-09-21T04:25:14+00:00",
+    "status": "indexed",
+    "questions_added": 187,
+    "duplicates_merged": 14,
+    "kind": "community_question_bank",
+    "answers_reviewed": false,
+    "commit": "86b24bdd3ba5fb41bfe6d5246697b1655a239751",
+    "description": "This repository provide roadmap to AI Engineer Interview Preparation ",
+    "default_branch": "main",
+    "snapshot_url": "https://github.com/anandtopu/AIEngineer/tree/86b24bdd3ba5fb41bfe6d5246697b1655a239751",
+    "license": "MIT",
+    "license_file": "licenses/anandtopu--AIEngineer.txt",
+    "markdown_files_scanned": 48,
+    "initial_candidates_added": 187
   }
 ]

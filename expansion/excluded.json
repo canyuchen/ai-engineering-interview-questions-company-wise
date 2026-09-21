@@ -1,22 +1,7 @@
 [
   {
-    "id": "q-4a3bc2eda631d0",
-    "source_url": "https://github.com/ombharatiya/AI-Engineer-Interview-Questions/blob/108530e6bf6b118b23599668d8e1c9fdae054fed/06-agents-and-tool-use/questions.md#L634",
-    "reason": "instruction_or_answer_fragment"
-  },
-  {
     "id": "q-03006bc852a0a8",
     "source_url": "https://github.com/ombharatiya/AI-Engineer-Interview-Questions/blob/108530e6bf6b118b23599668d8e1c9fdae054fed/13-interview-process-and-behavioral/mock-interview-kit.md#L315",
-    "reason": "navigation_or_answer_fragment"
-  },
-  {
-    "id": "q-8a8759c83277dd",
-    "source_url": "https://github.com/ombharatiya/AI-Engineer-Interview-Questions/blob/108530e6bf6b118b23599668d8e1c9fdae054fed/14-company-interview-questions/abridge.md#L354",
-    "reason": "navigation_or_answer_fragment"
-  },
-  {
-    "id": "q-fc2c191e8cef0d",
-    "source_url": "https://github.com/ombharatiya/AI-Engineer-Interview-Questions/blob/108530e6bf6b118b23599668d8e1c9fdae054fed/14-company-interview-questions/cursor-anysphere.md#L23",
     "reason": "navigation_or_answer_fragment"
   },
   {
@@ -25,29 +10,9 @@
     "reason": "instruction_or_answer_fragment"
   },
   {
-    "id": "q-c8136937aa8487",
-    "source_url": "https://github.com/ombharatiya/AI-Engineer-Interview-Questions/blob/108530e6bf6b118b23599668d8e1c9fdae054fed/CONTRIBUTING.md#L5",
-    "reason": "repository_administration_not_interview_question"
-  },
-  {
-    "id": "q-41774367ac2344",
-    "source_url": "https://github.com/sreekanth-madisetty/Awesome-LLM-Interview-Questions/blob/762c467c8d85187a265a35c74eb3211230072512/finetuning.md#L47",
-    "reason": "navigation_or_answer_fragment"
-  },
-  {
     "id": "q-6315331d896222",
     "source_url": "https://github.com/sreekanth-madisetty/Awesome-LLM-Interview-Questions/blob/762c467c8d85187a265a35c74eb3211230072512/preference_tuning.md#L109",
     "reason": "navigation_or_answer_fragment"
-  },
-  {
-    "id": "q-8f44673c5a1067",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/CONTRIBUTING.md#L11",
-    "reason": "repository_administration_not_interview_question"
-  },
-  {
-    "id": "q-e80cd904f8aa28",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/CONTRIBUTING.md#L34",
-    "reason": "repository_administration_not_interview_question"
   },
   {
     "id": "q-198fbfeda52c49",
@@ -80,6 +45,11 @@
     "reason": "repository_administration_not_interview_question"
   },
   {
+    "id": "q-9582bff78511e8",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/CONTRIBUTING.md#L263",
+    "reason": "repository_administration_not_interview_question"
+  },
+  {
     "id": "q-068412660ec614",
     "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/CONTRIBUTING.md#L264",
     "reason": "repository_administration_not_interview_question"
@@ -95,138 +65,8 @@
     "reason": "archived_reprint_file_level_rights_not_verified"
   },
   {
-    "id": "q-997ded5a619e41",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q1_Multi_Agent_Consistency.md#L19",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
     "id": "q-2ab59155a6ea0d",
     "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q1_Multi_Agent_Consistency.md#L146",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-a3ae11a4ee59bd",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q2_Scaling_Strategy.md#L25",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-753bfe5f792c22",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q2_Scaling_Strategy.md#L26",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-f6614e705e133b",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q2_Scaling_Strategy.md#L27",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-f1f48ef2799fc5",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q2_Scaling_Strategy.md#L28",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-f4058320625326",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q2_Scaling_Strategy.md#L32",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-70d0783edb04f8",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q2_Scaling_Strategy.md#L33",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-129ad452abf859",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q2_Scaling_Strategy.md#L34",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-7a8a8e333d5e01",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q2_Scaling_Strategy.md#L38",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-f79aa4694ed2e9",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q2_Scaling_Strategy.md#L39",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-f1a321b68df03f",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q2_Scaling_Strategy.md#L107",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-bd3b40a63ef619",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q2_Scaling_Strategy.md#L118",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-5342dc2e88b690",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q2_Scaling_Strategy.md#L148",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-377e2df98cedbb",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q3_Build_vs_Buy.md#L71",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-a5c0190ac17bf4",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q4_Reliability_Design.md#L130",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-0df455eeb19c6d",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q5_AI_Ethics.md#L33",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-9e66967fd9f646",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q5_AI_Ethics.md#L65",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-7b5151dfa580a8",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q5_AI_Ethics.md#L66",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-d21bf8156a9fb0",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q5_AI_Ethics.md#L67",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-3d5a3331c08a1b",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q5_AI_Ethics.md#L104",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-3ec4bc584e4885",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q5_AI_Ethics.md#L105",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-2dccbfce7d059e",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q5_AI_Ethics.md#L106",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-7859979cfd70f1",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q5_AI_Ethics.md#L147",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-12f39f74c73282",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q6_Future_Proofing.md#L122",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-6be387744f4cb0",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q6_Future_Proofing.md#L123",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-9928efd5d9c31f",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q6_Future_Proofing.md#L227",
     "reason": "archived_reprint_file_level_rights_not_verified"
   },
   {
@@ -255,733 +95,23 @@
     "reason": "archived_reprint_file_level_rights_not_verified"
   },
   {
-    "id": "q-79ad25d65e7fb5",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Engineer/Q2_Latency_Optimization.md#L38",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-64d4739f254e4f",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Engineer/Q3_Prompt_Injection.md#L19",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-8344d0c5bba5e2",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Engineer/Q3_Prompt_Injection.md#L69",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-7c775aa39f1d95",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Engineer/Q3_Prompt_Injection.md#L104",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-6de9b72aa1be7d",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Engineer/Q4_RAG_Quality.md#L88",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-3703d87bb69f67",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Engineer/Q4_RAG_Quality.md#L89",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-f131d5d001dce4",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Engineer/Q4_RAG_Quality.md#L90",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-e68d7843217dbf",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Engineer/Q4_RAG_Quality.md#L121",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-3bc8879e9a3903",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Engineer/Q4_RAG_Quality.md#L122",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-8980acece89ee2",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Engineer/Q4_RAG_Quality.md#L123",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-cebf12c94b3cf6",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Engineer/Q5_Model_Deployment.md#L33",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-872096c02c630a",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Engineer/Q5_Model_Deployment.md#L92",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-3e8b95365a46db",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Engineer/Q6_Data_Pipelines.md#L93",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-a0b5736adab99b",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Engineer/Q6_Data_Pipelines.md#L94",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-c4498136f6845c",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q1_Evaluation_Methodology.md#L23",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-b7b78ecffd4fb1",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q1_Evaluation_Methodology.md#L24",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-00b768373b57f9",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q1_Evaluation_Methodology.md#L25",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-0a6fb569b7a83e",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q1_Evaluation_Methodology.md#L45",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-84dff98b8321ed",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q1_Evaluation_Methodology.md#L46",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-687ba74f3fdd62",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q1_Evaluation_Methodology.md#L47",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-b4ba7f8660a9f7",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q1_Evaluation_Methodology.md#L55",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-c32537ca106703",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q1_Evaluation_Methodology.md#L66",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-aceb8bb7dfe3ee",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q1_Evaluation_Methodology.md#L67",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-d43b61184084f1",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q1_Evaluation_Methodology.md#L73",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-219c4e9c8fe8b9",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q1_Evaluation_Methodology.md#L74",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-aafa75cf628493",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q1_Evaluation_Methodology.md#L75",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-1a97981afc3571",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q1_Evaluation_Methodology.md#L103",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
     "id": "q-9bd1e27f5c7dcf",
     "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q1_Evaluation_Methodology.md#L109",
     "reason": "archived_reprint_file_level_rights_not_verified"
   },
   {
-    "id": "q-d3061325d851b4",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q2_Research_Direction.md#L25",
+    "id": "q-971eb5f914555c",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q3_Negative_Results.md#L41",
     "reason": "archived_reprint_file_level_rights_not_verified"
   },
   {
-    "id": "q-ec96084f696179",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q2_Research_Direction.md#L26",
+    "id": "q-96fa48aec1e25f",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q3_Negative_Results.md#L52",
     "reason": "archived_reprint_file_level_rights_not_verified"
   },
   {
-    "id": "q-5cc1df37c27cd3",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q2_Research_Direction.md#L27",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-3fdf84b833ed22",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q2_Research_Direction.md#L33",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-69d214b862334d",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q2_Research_Direction.md#L34",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-42ad114c13ca36",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q2_Research_Direction.md#L35",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-8795ba69d0192e",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q2_Research_Direction.md#L41",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-42a9ea84b6c246",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q2_Research_Direction.md#L42",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-08931a7abf7dd2",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q2_Research_Direction.md#L43",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-9870412a8a36da",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q2_Research_Direction.md#L78",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-bb4d11ca265ccd",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q2_Research_Direction.md#L79",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-bf8fc00b8b1139",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q2_Research_Direction.md#L80",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-8f9a53e328f6b0",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q2_Research_Direction.md#L89",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-43f4d84cb050d8",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q2_Research_Direction.md#L90",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-4171df80ec0abb",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q2_Research_Direction.md#L91",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-7218274323327f",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q3_Negative_Results.md#L45",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-29a273bdb8ecef",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q3_Negative_Results.md#L46",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-74d335d0873dda",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q3_Negative_Results.md#L47",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-f291e94382f16f",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q3_Negative_Results.md#L48",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-4c36b699512822",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q3_Negative_Results.md#L65",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-11191a6c617efa",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q3_Negative_Results.md#L66",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-9eeedd64642909",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q3_Negative_Results.md#L67",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-6f663a7c5598c7",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q3_Negative_Results.md#L103",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-3b820cef889cbe",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q3_Negative_Results.md#L111",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-46d405fb95818a",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q3_Negative_Results.md#L112",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-7a305c497d2f3e",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q3_Negative_Results.md#L113",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-02e270b931c418",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q4_Scaling_Laws.md#L30",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-c8cade850804d2",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q4_Scaling_Laws.md#L47",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-d951acad79ee55",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q4_Scaling_Laws.md#L102",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-91c00200e5b2fe",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q4_Scaling_Laws.md#L103",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-fa1c5c362c7719",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q4_Scaling_Laws.md#L104",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-2352944e1d0abb",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q4_Scaling_Laws.md#L105",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-98a86b2fbcc45d",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q4_Scaling_Laws.md#L138",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-55b9776bc6b1ca",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L25",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-f5fb447cefc0a8",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L26",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-1bf237255fc390",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L27",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-3d3472320a07a2",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L28",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-38d6c138f6a00f",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L34",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-f89f62c948907b",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L35",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-787f88bd05aeb2",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L36",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-d6bffd901eb545",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L43",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-bed36a778ca735",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L44",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-89464f29812c6d",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L48",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-61d2c3a770161d",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L49",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-5d982b3d2c98e7",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L50",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-d59ad3e0c6fdd8",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L51",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-2ad3d7fae4b14d",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L79",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-bf648d8c18e740",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L80",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-418ebcb5765b10",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L81",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-a95aaf2131bd57",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L139",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-b2c66f4bc442f0",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L140",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-e1407365b28597",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L141",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-85726058d9b8ae",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L174",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-c137a83142c8f3",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L191",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-536fb3d39c65ac",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q5_Architecture_Design.md#L192",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-1e50317a32947f",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q6_Interdisciplinary_Applications.md#L25",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-0bdc29d3f21607",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q6_Interdisciplinary_Applications.md#L26",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-40561ed3521b0e",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q6_Interdisciplinary_Applications.md#L28",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-4a29e3534d991e",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q6_Interdisciplinary_Applications.md#L34",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-f8a522009a4841",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q6_Interdisciplinary_Applications.md#L35",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-e8b2681da00021",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q6_Interdisciplinary_Applications.md#L50",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-d308a3b43fc81a",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q6_Interdisciplinary_Applications.md#L111",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-416922bde6a218",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q6_Interdisciplinary_Applications.md#L139",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-a518c261f249cf",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q6_Interdisciplinary_Applications.md#L140",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-266f4a6f1212bb",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q6_Interdisciplinary_Applications.md#L141",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-3bb4c5e036133d",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q1_Experimentation.md#L23",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-f516222af415f5",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q1_Experimentation.md#L24",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-e2dbbcd0a28420",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q1_Experimentation.md#L25",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-d985ef9edac91a",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q1_Experimentation.md#L26",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-d17056be8fb96c",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q2_Metric_Design.md#L23",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-9ff9fdc44582da",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q2_Metric_Design.md#L24",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-83e46cf9541a4c",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q2_Metric_Design.md#L25",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-2d5d19c380be22",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q2_Metric_Design.md#L26",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-f98045f220f653",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q2_Metric_Design.md#L72",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-8eac93aa6e22c0",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q2_Metric_Design.md#L74",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-d39a6ddfdaf785",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q2_Metric_Design.md#L78",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-83127b66a8fc82",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q2_Metric_Design.md#L79",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-230b5707d43ee9",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q2_Metric_Design.md#L88",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-72b070a00e5d4e",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q2_Metric_Design.md#L89",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-f929f345c95801",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q2_Metric_Design.md#L92",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-db8b0c0bccbcf4",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q2_Metric_Design.md#L96",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-ed224c66e046cc",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q2_Metric_Design.md#L97",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-7a925acc59aed3",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q3_Causal_Inference.md#L19",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-0cd8e4348809c2",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q3_Causal_Inference.md#L31",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-bae1096bbf1e59",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q3_Causal_Inference.md#L32",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-ed3d8044dc6c58",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q3_Causal_Inference.md#L37",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-58708967a27203",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q3_Causal_Inference.md#L38",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-26fe2a28a3d651",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q3_Causal_Inference.md#L39",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-b40826b0126afa",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q3_Causal_Inference.md#L40",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-0d056862fb0f6f",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q3_Causal_Inference.md#L46",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-0c4bc67f60b6a3",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q3_Causal_Inference.md#L47",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-00059be7714389",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q3_Causal_Inference.md#L52",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-f09746ebce5be0",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q3_Causal_Inference.md#L53",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-121ec972024496",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q3_Causal_Inference.md#L64",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-b3b50d3c3d3b0c",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q4_Stakeholder_Communication.md#L53",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-1bdeaeba3639b6",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q4_Stakeholder_Communication.md#L54",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-6f715d39f22dab",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q4_Stakeholder_Communication.md#L55",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-a7feec5294fa64",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q6_Advanced_Analytics.md#L36",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-58337e5c22df02",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q6_Advanced_Analytics.md#L37",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-86e92de36e5d3b",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q6_Advanced_Analytics.md#L38",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-78563d6a0940be",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q6_Advanced_Analytics.md#L116",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-de825ee04f23fb",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q6_Advanced_Analytics.md#L126",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-5df15ba892b315",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/Data_Scientist/Q6_Advanced_Analytics.md#L150",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-673e7dbfbbf6d1",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/ML_Engineer/Q1_Training_Pipeline.md#L98",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-7371f5c7decfda",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/ML_Engineer/Q2_Model_Debugging.md#L23",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-c0ec653659e5a4",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/ML_Engineer/Q2_Model_Debugging.md#L24",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-83c7bc7f213e85",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/ML_Engineer/Q2_Model_Debugging.md#L25",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-6ca4256cd6f93c",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/ML_Engineer/Q2_Model_Debugging.md#L38",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-b7e7b31e66a600",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/ML_Engineer/Q4_Hyperparameter_Optimization.md#L24",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-b9a127fb6d2e4d",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/ML_Engineer/Q4_Hyperparameter_Optimization.md#L25",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-358d71f4dde078",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/ML_Engineer/Q4_Hyperparameter_Optimization.md#L26",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-573d3f32dc8280",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/ML_Engineer/Q4_Hyperparameter_Optimization.md#L150",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-11bf611dbacc98",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/ML_Engineer/Q5_Model_Compression.md#L141",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-3935fc49eaab29",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/ML_Engineer/Q5_Model_Compression.md#L196",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-3a90acba10842b",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/ML_Engineer/Q5_Model_Compression.md#L201",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-e7fd585ba21e57",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/ML_Engineer/Q6_Feature_Engineering.md#L27",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-6d729804fb1daa",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/ML_Engineer/Q6_Feature_Engineering.md#L40",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-f8af0fa0293e81",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/ML_Engineer/Q6_Feature_Engineering.md#L41",
+    "id": "q-c066a1d5231541",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q3_Negative_Results.md#L61",
     "reason": "archived_reprint_file_level_rights_not_verified"
   },
   {
@@ -1027,11 +157,6 @@
   {
     "id": "q-dc0970f9254d17",
     "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/llms-interview-questions/README.md#L303",
-    "reason": "archived_reprint_file_level_rights_not_verified"
-  },
-  {
-    "id": "q-6ce945b3634880",
-    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/llms-interview-questions/README.md#L337",
     "reason": "archived_reprint_file_level_rights_not_verified"
   },
   {
@@ -1085,11 +210,6 @@
     "reason": "archived_reprint_file_level_rights_not_verified"
   },
   {
-    "id": "q-70aae49268fc87",
-    "source_url": "https://github.com/mchittineni/ultimate-ai-engineering-guide/blob/b8079c91ad5c0f778d23b6b89cd294312a65c282/CONTRIBUTING.md#L81",
-    "reason": "repository_administration_not_interview_question"
-  },
-  {
     "id": "q-8b046645bb61f7",
     "source_url": "https://github.com/mchittineni/ultimate-ai-engineering-guide/blob/b8079c91ad5c0f778d23b6b89cd294312a65c282/rag-and-vector-databases/what-is-the-lost-in-the-middle-phenomenon-in-llm-retrieval.md#L29",
     "reason": "navigation_or_answer_fragment"
@@ -1100,16 +220,6 @@
     "reason": "navigation_or_answer_fragment"
   },
   {
-    "id": "q-b7bca11980c605",
-    "source_url": "https://github.com/igloomatics/llm-interview-playbook/blob/ea3fa3f728ab789178da0c096cba116ec779f911/book/moe/03-sparse-architecture.md#L100",
-    "reason": "navigation_or_answer_fragment"
-  },
-  {
-    "id": "q-5f04536a00ba84",
-    "source_url": "https://github.com/Exorust/TorchLeet/blob/ecc4c637014a5346188d22942276b6989edc09fa/CONTRIBUTING.md#L31",
-    "reason": "repository_administration_not_interview_question"
-  },
-  {
     "id": "q-481371320e1ab8",
     "source_url": "https://github.com/Exorust/TorchLeet/blob/ecc4c637014a5346188d22942276b6989edc09fa/mcp-server/README.md#L43",
     "reason": "repository_administration_not_interview_question"
@@ -1117,6 +227,11 @@
   {
     "id": "q-35ef7c3d1a6a40",
     "source_url": "https://github.com/Exorust/TorchLeet/blob/ecc4c637014a5346188d22942276b6989edc09fa/mcp-server/README.md#L86",
+    "reason": "repository_administration_not_interview_question"
+  },
+  {
+    "id": "q-2f2ea1526faecc",
+    "source_url": "https://github.com/landedjobs/awesome-ai-engineer-interview/blob/7cbbd2d6a9b2e7390c044df345f54318f2a1b865/.github/ISSUE_TEMPLATE/add-a-question.md#L17",
     "reason": "repository_administration_not_interview_question"
   },
   {
@@ -1135,18 +250,13 @@
     "reason": "repository_administration_not_interview_question"
   },
   {
-    "id": "q-6f5ee5e62e7021",
-    "source_url": "https://github.com/landedjobs/awesome-ai-engineer-interview/blob/7cbbd2d6a9b2e7390c044df345f54318f2a1b865/CONTRIBUTING.md#L9",
+    "id": "q-6be63bc3b13d70",
+    "source_url": "https://github.com/landedjobs/awesome-ai-engineer-interview/blob/7cbbd2d6a9b2e7390c044df345f54318f2a1b865/.github/PULL_REQUEST_TEMPLATE.md#L17",
     "reason": "repository_administration_not_interview_question"
   },
   {
     "id": "q-06223ec302865f",
     "source_url": "https://github.com/landedjobs/awesome-ai-engineer-interview/blob/7cbbd2d6a9b2e7390c044df345f54318f2a1b865/company/README.md#L88",
-    "reason": "navigation_or_answer_fragment"
-  },
-  {
-    "id": "q-a15c4ecd48fcc3",
-    "source_url": "https://github.com/landedjobs/awesome-ai-engineer-interview/blob/7cbbd2d6a9b2e7390c044df345f54318f2a1b865/company/anthropic.md#L53",
     "reason": "navigation_or_answer_fragment"
   },
   {

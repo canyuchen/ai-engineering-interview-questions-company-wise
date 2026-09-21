@@ -1,46 +1,19 @@
-name: Refine and validate sourced catalog
+name: Refine existing interview snapshot manually
 on:
-  pull_request:
-    types: [synchronize]
-    paths:
-      - 'tools/refine_catalog.py'
-      - '.github/workflows/refine-catalog.yml'
+  workflow_dispatch:
 permissions:
-  contents: write
+  contents: read
 jobs:
   refine:
-    if: github.event.pull_request.head.repo.full_name == github.repository && github.head_ref == 'expand/ai-interviews-20260920' && github.actor != 'github-actions[bot]'
+    if: github.ref == 'refs/heads/expand/ai-interviews-20260920'
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
         with:
-          ref: ${{ github.head_ref }}
           fetch-depth: 0
-      - name: Test extraction and refine current snapshot
+      - name: Test and validate a local refinement
         run: |
           python tools/test_catalog.py
           python tools/refine_catalog.py
           python tools/question_bank.py validate
-      - name: Commit refined snapshot to expansion branch
-        env:
-          HEAD_BRANCH: ${{ github.head_ref }}
-        run: |
-          test "$HEAD_BRANCH" = 'expand/ai-interviews-20260920'
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add expansion/
-          if ! git diff --cached --quiet; then
-            git commit -m 'data: prune navigation and unverified reprints; restore company labels and 20 topic indexes'
-            git push origin "HEAD:$HEAD_BRANCH"
-          fi
-      - name: Package refined offline catalog
-        run: |
-          mkdir -p dist
-          zip -q -r dist/ai-interview-expanded.zip expansion tools EXPANSION.zh-CN.md README.md LICENSE -x '*/__pycache__/*'
-          cat expansion/stats.json >> "$GITHUB_STEP_SUMMARY"
-      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
-        with:
-          name: ai-interview-expanded-refined
-          path: dist/ai-interview-expanded.zip
-          retention-days: 30

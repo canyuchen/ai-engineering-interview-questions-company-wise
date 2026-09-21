@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
-"""Structure-aware extraction: Q markers, question tables, numbered scenarios.
+"""Structure-aware question extraction, used by the canonical rebuild.
 
-Uses the existing collector's license gates and snapshot URLs, then its review
-passes. Existing upstream commits are pinned. Source answers remain unverified.
+Recognizes explicit Q markers, numbered scenarios and Q tables while retaining
+source line numbers. Source answers and interview claims remain unverified.
 """
 from __future__ import annotations
 import argparse
-import json
 import re
 import collect_sources as c
 
@@ -38,7 +37,7 @@ def is_question(q: str) -> bool:
 
 
 def candidates(text: str):
-    """Keep source line numbers; prefer question boundaries over answer bullets."""
+    """Prefer explicit question boundaries over interrogative answer fragments."""
     lines = text.splitlines()
     explicit_count = numbered_count = 0
     for line in lines:
@@ -121,8 +120,6 @@ def candidates(text: str):
 
 def self_test() -> None:
     qa = '# What They Emphasize\n- Genuine commitment — why?\n## Interview Questions\n**Q1: Explain the KV cache.**\n- The answer raises a question: why?\n**Q2: Design a concurrent queue.**\n- Why is this answer incomplete?\n'
-    # Preparation suppression ends at a same-level heading; explicit Q markers
-    # are recognized even in documents that use inconsistent heading levels.
     assert list(candidates(qa)) == [(4, 'Explain the KV cache.'), (6, 'Design a concurrent queue.')]
     numeric = '## What they emphasise\n- Why this company?\n## Representative questions\n### 1. You need to run a model on 50000 documents. Write the Python.\n<details><summary>Answer</summary>\n- Why is this solution useful?\n</details>\n### 2. Design a memory store.\n## How to prepare\n- What books should you read?\n'
     assert [q for _, q in candidates(numeric)] == ['You need to run a model on 50000 documents. Write the Python.', 'Design a memory store.']
@@ -136,58 +133,12 @@ def self_test() -> None:
     print('PASS: explicit Q markers, numbered scenarios, Q tables, answer exclusion, navigation exclusion, source lines.')
 
 
-def rebuild() -> None:
-    from collections import Counter
-    import refine_catalog
-    import review_catalog
-    out = c.OUT
-    old_rows = json.loads((out / 'questions.json').read_text(encoding='utf-8')) if (out / 'questions.json').exists() else []
-    old_sources = json.loads((out / 'sources.json').read_text(encoding='utf-8')) if (out / 'sources.json').exists() else []
-    pinned = {s['repository']: s['commit'] for s in old_sources if s.get('commit')}
-    original_api = c.api
-    def snapshot_api(path):
-        match = re.fullmatch(r'repos/([^/]+/[^/]+)/commits/[^/]+', path)
-        if match and match.group(1) in pinned:
-            return {'sha': pinned[match.group(1)]}
-        return original_api(path)
-    c.api = snapshot_api
-    c.candidates = candidates
-    c.collect()
-    # Reset old exclusion audit before applying the same rights/format filters
-    # to a fresh extraction; never double-count exclusions from earlier builds.
-    c.save('excluded.json', [])
-    refine_catalog.main()
-    review_catalog.main()
-    rows = json.loads((out / 'questions.json').read_text(encoding='utf-8'))
-    sources = json.loads((out / 'sources.json').read_text(encoding='utf-8'))
-    stats = json.loads((out / 'stats.json').read_text(encoding='utf-8'))
-    for row in rows:
-        row['extraction_version'] = 'structured-v2' if row['kind'] != 'derived_practice' else 'authored-v1'
-    old_keys = {c.norm(r['question']): r for r in old_rows}
-    new_keys = {c.norm(r['question']): r for r in rows}
-    removed = [r['id'] for key, r in old_keys.items() if key not in new_keys]
-    added = [r['id'] for key, r in new_keys.items() if key not in old_keys]
-    audit = {'previous_candidate_count': len(old_rows), 'current_candidate_count': len(rows), 'removed_normalized_prompts': len(removed), 'added_normalized_prompts': len(added), 'removed_ids': removed, 'added_ids': added, 'reason': 'Recognize explicit Q markers, numbered question headings and Q tables; exclude answer/preparation/navigation text; recover imperative scenarios. Prior source commits pinned; downstream rights and company-label reviews retained.', 'human_review': 'Structural rules tested and source formats sampled. NOT exhaustive human review, semantic deduplication or verification of interview authenticity.'}
-    stats['parser_version'] = 'structured-v2'
-    stats['source_snapshot_policy'] = 'Existing source commits pinned during the structure-aware quality pass.'
-    stats['company_label_count'] = len(stats['company_labels'])
-    stats['counts_by_topic'] = dict(sorted(Counter(t for r in rows for t in r['topics']).items()))
-    stats['topic_count'] = len(stats['counts_by_topic'])
-    c.save('questions.json', rows)
-    c.save('stats.json', stats)
-    c.save('extraction-audit.json', audit)
-    c.render(rows, sources, stats)
-    (out / 'EXTRACTION.md').write_text('# Structure-aware extraction audit\n\n' + f'Indexed candidates: {len(old_rows)} before, {len(rows)} after. Removed {len(removed)} normalized prompts; recovered {len(added)} normalized prompts.\n\n' + 'The parser now recognizes bold Q markers, numbered scenario headings and question tables, and avoids preparation/navigation sections and answer bodies. Source commits from the previous build were pinned. File-level reprint exclusions and original company-label restoration remain in place.\n\n[Machine-readable audit](extraction-audit.json) · [Source registry](SOURCES.md) · [Index](README.md)\n\nRebuild: `python tools/extract_questions_v2.py`. Tests only: `python tools/extract_questions_v2.py --self-test`.\n\nRemaining limitations: automatic extraction can still miss prompts or retain contextual fragments; company interview claims and answers remain unverified; rephrases/translations are not semantically deduplicated.\n', encoding='utf-8')
-    index = out / 'README.md'
-    index.write_text(index.read_text(encoding='utf-8').replace('[Sources and license audit](SOURCES.md)', '[Extraction audit](EXTRACTION.md) · [Sources and license audit](SOURCES.md)'), encoding='utf-8')
-    print(json.dumps({k: v for k, v in audit.items() if not k.endswith('_ids')}, ensure_ascii=False, indent=2))
-    print(json.dumps(stats, ensure_ascii=False, indent=2))
-
-
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--self-test', action='store_true')
     args = parser.parse_args()
-    self_test()
-    if not args.self_test:
-        rebuild()
+    if args.self_test:
+        self_test()
+    else:
+        from rebuild import main
+        main()

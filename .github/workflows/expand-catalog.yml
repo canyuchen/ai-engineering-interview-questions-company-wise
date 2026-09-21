@@ -31,26 +31,56 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: python tools/rebuild.py
       - name: Validate provenance and counts
+        id: validate
         run: python tools/question_bank.py validate
-      - name: Commit catalog to the expansion branch only
+      - name: Preserve validated offline snapshot
+        run: |
+          mkdir -p "$RUNNER_TEMP/catalog-artifact"
+          zip -q -r "$RUNNER_TEMP/catalog-artifact/ai-interview-expansion.zip" expansion tools EXPANSION.zh-CN.md README.md LICENSE -x '*/__pycache__/*'
+      - name: Publish using fast-forward only
         env:
           HEAD_BRANCH: ${{ github.head_ref }}
+          GH_TOKEN: ${{ github.token }}
         run: |
           test "$HEAD_BRANCH" = 'expand/ai-interviews-20260920'
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add README.md expansion/
-          if ! git diff --cached --quiet; then
-            git commit -m 'data: rebuild licensed, quality-filtered interview catalog with provenance'
-            git push origin "HEAD:$HEAD_BRANCH"
-          fi
-      - name: Package offline catalog
-        run: |
-          mkdir -p dist
-          zip -q -r dist/ai-interview-expansion.zip expansion tools EXPANSION.zh-CN.md README.md LICENSE -x '*/__pycache__/*'
-          cat expansion/stats.json >> "$GITHUB_STEP_SUMMARY"
-      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+          for attempt in 1 2 3; do
+            base=$(git rev-parse HEAD)
+            git add README.md expansion/
+            if git diff --cached --quiet; then
+              exit 0
+            fi
+            git commit -m 'data: publish quality-filtered sourced interview expansion'
+            if git push origin "HEAD:$HEAD_BRANCH"; then
+              exit 0
+            fi
+            git fetch origin "$HEAD_BRANCH"
+            remote=$(git rev-parse FETCH_HEAD)
+            if test "$remote" = "$base"; then
+              echo 'Push rejected without a concurrent update; stopping.'
+              exit 1
+            fi
+            if test "$attempt" = 3; then
+              echo 'Branch kept changing; validated snapshot remains available as an artifact.'
+              exit 1
+            fi
+            # Only this disposable runner checkout is reset. Remote history is never forced.
+            # Rebuild from the latest source so concurrent edits are preserved.
+            git reset --hard "$remote"
+            python tools/test_catalog.py
+            python tools/rebuild.py
+            python tools/question_bank.py validate
+            rm -f "$RUNNER_TEMP/catalog-artifact/ai-interview-expansion.zip"
+            zip -q -r "$RUNNER_TEMP/catalog-artifact/ai-interview-expansion.zip" expansion tools EXPANSION.zh-CN.md README.md LICENSE -x '*/__pycache__/*'
+          done
+      - name: Upload validated offline snapshot
+        if: always() && steps.validate.outcome == 'success'
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:
           name: ai-interview-expansion
-          path: dist/ai-interview-expansion.zip
+          path: ${{ runner.temp }}/catalog-artifact/ai-interview-expansion.zip
           retention-days: 30
+      - name: Record final statistics
+        if: success()
+        run: cat expansion/stats.json >> "$GITHUB_STEP_SUMMARY"

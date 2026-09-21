@@ -1,0 +1,20 @@
+name: Review existing interview snapshot manually
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  review:
+    if: github.ref == 'refs/heads/expand/ai-interviews-20260920'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          fetch-depth: 0
+      - name: Validate the existing snapshot
+        run: |
+          python tools/test_catalog.py
+          python tools/review_catalog.py
+          python tools/review_catalog.py
+          python tools/question_bank.py validate

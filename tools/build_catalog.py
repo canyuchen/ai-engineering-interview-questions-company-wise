@@ -61,7 +61,8 @@ def valid_prompt(q: str) -> bool:
     if re.match(r'^(?:write your (?:lp|star)|prepare the values|culture screen|the values/culture|read:|see also)',text,re.I): return False
     if re.search(r'[\u4e00-\u9fff]',text): return True
     if ASK.match(text): return True
-    return bool(SCENARIO.match(text) and ('?' in text or '？' in text))
+    explicit_command=bool(re.search(r'(?:^|[.!;]\s+)(?:write|implement|design|build|explain|calculate|derive|sketch|debug)\b',text,re.I))
+    return bool(SCENARIO.match(text) and ('?' in text or '？' in text or explicit_command))
 
 def strict_candidates(text: str):
     masked=mask_answers(text); found={n:q for n,q in ORIGINAL_CANDIDATES(masked)}

@@ -1,3 +1,6 @@
+<!-- AI-INTERVIEW-EXPANSION -->
+> **Expanded catalog / 扩展题库:** [Browse the sourced question index](expansion/README.md) · [中文使用说明](EXPANSION.zh-CN.md) · [Source registry](expansion/SOURCES.md). Original content is preserved; evidence types are explicitly separated.
+
 <p align="center">
     <img alt="AI Engineering Interview Questions Company Wise" src="https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise/blob/main/assets/banner.png">
 </p>

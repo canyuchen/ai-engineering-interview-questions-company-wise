@@ -32,5 +32,13 @@
 {"repo":"712sir/ai-infra-career","extract":false},
 {"repo":"km1994/AIGC-Interview-Book","extract":false},
 {"repo":"fiigii/ai-comp","extract":false},
-{"repo":"anthropics/original_performance_takehome","extract":false}
+{"repo":"anthropics/original_performance_takehome","extract":false},
+{"repo":"alirezadir/AIMLInterviews","extract":true},
+{"repo":"chiphuyen/ml-interviews-book","extract":false},
+{"repo":"khangich/machine-learning-interview","extract":false},
+{"repo":"Sroy20/machine-learning-interview-questions","extract":true},
+{"repo":"youssefHosni/Data-Science-Interview-Questions-Answers","extract":true},
+{"repo":"youssefHosni/Data-Science-Interview-Preperation-Resources","extract":true},
+{"repo":"wdndev/llm_interview_note","extract":true},
+{"repo":"anandtopu/AIEngineer","extract":true}
 ]

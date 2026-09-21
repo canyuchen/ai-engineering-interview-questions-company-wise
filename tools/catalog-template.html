@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>AI Interview Catalog · 扩展题库</title>
+<style>body{font:16px/1.65 system-ui,sans-serif;margin:0;background:#f6f7fa;color:#16202e}main{max-width:1100px;margin:auto;padding:35px 24px}h1{font-size:32px;margin:4px 0}header p{max-width:850px;color:#4e5969}.filters{display:flex;flex-wrap:wrap;gap:10px;margin:24px 0 12px}input,select,button{font:inherit;border:1px solid #ccd2dc;border-radius:7px;padding:9px;background:white}input{min-width:240px;flex:2}article{background:white;border:1px solid #dce1e9;border-radius:10px;padding:18px 22px;margin:12px 0}article p{margin:8px 0}.meta{font-size:13px;color:#566273}a{color:#214da8}button{cursor:pointer}#count{font-size:14px}footer{margin:30px 0;font-size:13px;color:#566273}</style></head>
+<body><main><header><div>AI ENGINEERING · SOURCE-AWARE CATALOG</div><h1>面试准备资料库</h1><p>公开题库、原仓库条目与原创练习分开标记。公司标签不证明题目曾在该公司考过；自动提取条目仍需人工审核。阅读来源和答案请点击原文。</p></header>
+<div class="filters"><input id="query" aria-label="关键词" placeholder="关键词 / keyword / question ID"><select id="company" aria-label="公司"><option value="">全部公司标签</option></select><select id="topic" aria-label="主题"><option value="">全部主题</option></select><select id="kind" aria-label="来源类型"><option value="">全部类型</option><option value="community_question_bank">公开题库候选</option><option value="derived_practice">原创场景练习</option><option value="legacy_unverified">原仓库未复核</option></select></div>
+<p id="count" aria-live="polite"></p><section id="results"></section><button id="more" type="button">显示更多 / Show more</button><footer>单文件离线检索，无统计脚本，无第三方依赖。主题标签可能重叠；仅做规范化文本去重，不声称语义去重。</footer></main>
+<script type="application/json" id="data">__DATA__</script><script>
+'use strict';
+const data=JSON.parse(document.getElementById('data').textContent);
+const $=id=>document.getElementById(id);
+for(const [id,field] of [['company','companies'],['topic','topics']]){
+ for(const name of [...new Set(data.flatMap(r=>r[field]))].sort()){
+  const option=document.createElement('option');option.value=name;option.textContent=name;$(id).append(option);
+ }
+}
+let limit=60;let matched=[];
+function render(){
+ const query=$('query').value.toLocaleLowerCase().trim();
+ matched=data.filter(r=>(!query||(r.question+' '+r.id+' '+r.source_id).toLocaleLowerCase().includes(query))&&(!$('company').value||r.companies.includes($('company').value))&&(!$('topic').value||r.topics.includes($('topic').value))&&(!$('kind').value||r.kind===$('kind').value));
+ $('count').textContent=`${matched.length} 个匹配条目 / ${data.length} 总条目 · 当前显示 ${Math.min(limit,matched.length)}`;
+ const fragment=document.createDocumentFragment();
+ for(const r of matched.slice(0,limit)){
+  const article=document.createElement('article');const meta=document.createElement('div');meta.className='meta';meta.textContent=[r.id,r.kind,r.companies.join(' / '),r.topics.join(', ')].filter(Boolean).join(' · ');
+  const text=document.createElement('p');text.textContent=r.question;
+  const link=document.createElement('a');link.textContent=r.kind==='derived_practice'?'背景阅读（不是面经证据）':'原文 / 可能的答案';
+  const url=new URL(r.source_url);if(['https:','http:'].includes(url.protocol)){link.href=url.href;link.target='_blank';link.rel='noopener noreferrer';}
+  article.append(meta,text,link);fragment.append(article);
+ }
+ $('results').replaceChildren(fragment);$('more').hidden=limit>=matched.length;
+}
+for(const id of ['query','company','topic','kind'])$(id).addEventListener('input',()=>{limit=60;render();});
+$('more').addEventListener('click',()=>{limit+=60;render();});render();
+</script></body></html>

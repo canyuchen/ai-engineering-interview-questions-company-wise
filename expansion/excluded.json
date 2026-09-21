@@ -1,0 +1,267 @@
+[
+  {
+    "id": "q-03006bc852a0a8",
+    "source_url": "https://github.com/ombharatiya/AI-Engineer-Interview-Questions/blob/108530e6bf6b118b23599668d8e1c9fdae054fed/13-interview-process-and-behavioral/mock-interview-kit.md#L315",
+    "reason": "navigation_or_answer_fragment"
+  },
+  {
+    "id": "q-966ea4928bf83c",
+    "source_url": "https://github.com/ombharatiya/AI-Engineer-Interview-Questions/blob/108530e6bf6b118b23599668d8e1c9fdae054fed/CHEATSHEET.md#L67",
+    "reason": "instruction_or_answer_fragment"
+  },
+  {
+    "id": "q-6315331d896222",
+    "source_url": "https://github.com/sreekanth-madisetty/Awesome-LLM-Interview-Questions/blob/762c467c8d85187a265a35c74eb3211230072512/preference_tuning.md#L109",
+    "reason": "navigation_or_answer_fragment"
+  },
+  {
+    "id": "q-198fbfeda52c49",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/CONTRIBUTING.md#L226",
+    "reason": "repository_administration_not_interview_question"
+  },
+  {
+    "id": "q-c56851cd19ec57",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/CONTRIBUTING.md#L227",
+    "reason": "repository_administration_not_interview_question"
+  },
+  {
+    "id": "q-be8655b080de8e",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/CONTRIBUTING.md#L228",
+    "reason": "repository_administration_not_interview_question"
+  },
+  {
+    "id": "q-ad61d1ea589be4",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/CONTRIBUTING.md#L229",
+    "reason": "repository_administration_not_interview_question"
+  },
+  {
+    "id": "q-d01954f8acce44",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/CONTRIBUTING.md#L261",
+    "reason": "repository_administration_not_interview_question"
+  },
+  {
+    "id": "q-2f1db7b764421c",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/CONTRIBUTING.md#L262",
+    "reason": "repository_administration_not_interview_question"
+  },
+  {
+    "id": "q-9582bff78511e8",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/CONTRIBUTING.md#L263",
+    "reason": "repository_administration_not_interview_question"
+  },
+  {
+    "id": "q-068412660ec614",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/CONTRIBUTING.md#L264",
+    "reason": "repository_administration_not_interview_question"
+  },
+  {
+    "id": "q-a9adbb86b32877",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/ai-engineering-interview-questions/README.md#L374",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-add6903f981612",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/ai-engineering-interview-questions/README.md#L375",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-2ab59155a6ea0d",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Architect/Q1_Multi_Agent_Consistency.md#L146",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-94142d699d2865",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Engineer/Q1_Context_and_Memory.md#L43",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-a38343b722c2ce",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Engineer/Q1_Context_and_Memory.md#L46",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-dd786f16ccae83",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Engineer/Q1_Context_and_Memory.md#L47",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-d2024aadb0f3ee",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Engineer/Q1_Context_and_Memory.md#L48",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-b0284c4a9ddab5",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Engineer/Q1_Context_and_Memory.md#L57",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-9bd1e27f5c7dcf",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q1_Evaluation_Methodology.md#L109",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-971eb5f914555c",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q3_Negative_Results.md#L41",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-96fa48aec1e25f",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q3_Negative_Results.md#L52",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-c066a1d5231541",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/AI_Researcher/Q3_Negative_Results.md#L61",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-720e81af37af5f",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/README.md#L38",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-f89f9ec3cdbd4b",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/README.md#L39",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-ea77b6d9365197",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/README.md#L40",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-f8d18c7027d911",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/interview_questions/README.md#L41",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-affc055006e892",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/llms-interview-questions/README.md#L14",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-61558aa31db12a",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/llms-interview-questions/README.md#L81",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-dabecc20a04a78",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/llms-interview-questions/README.md#L189",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-92a86e40d64656",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/llms-interview-questions/README.md#L229",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-dc0970f9254d17",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/llms-interview-questions/README.md#L303",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-f54ee159b5a8c5",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/llms-interview-questions/README.md#L375",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-fcd77923e939f0",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/llms-interview-questions/README.md#L470",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-fa023c3524049a",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/llms-interview-questions/README.md#L555",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-1513d4d93d2877",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/llms-interview-questions/README.md#L624",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-606ad9ad1ce0c3",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/llms-interview-questions/README.md#L687",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-dca60b7172f99b",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/llms-interview-questions/README.md#L744",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-ebefe13fbb4c79",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/llms-interview-questions/README.md#L788",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-7505c9c1c14cca",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/llms-interview-questions/README.md#L877",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-e6a6e0381d943e",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/llms-interview-questions/README.md#L966",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-3faf88766f1f62",
+    "source_url": "https://github.com/JustInCache/awesome-ai-interviews/blob/61d1d99635ef9cbd97f57fee7a03a8393df561e0/_archive/llms-interview-questions/README.md#L1035",
+    "reason": "archived_reprint_file_level_rights_not_verified"
+  },
+  {
+    "id": "q-8b046645bb61f7",
+    "source_url": "https://github.com/mchittineni/ultimate-ai-engineering-guide/blob/b8079c91ad5c0f778d23b6b89cd294312a65c282/rag-and-vector-databases/what-is-the-lost-in-the-middle-phenomenon-in-llm-retrieval.md#L29",
+    "reason": "navigation_or_answer_fragment"
+  },
+  {
+    "id": "q-7e057c8e20bc8b",
+    "source_url": "https://github.com/igloomatics/llm-interview-playbook/blob/ea3fa3f728ab789178da0c096cba116ec779f911/book/llm-inference-exam/README.md#L13",
+    "reason": "navigation_or_answer_fragment"
+  },
+  {
+    "id": "q-481371320e1ab8",
+    "source_url": "https://github.com/Exorust/TorchLeet/blob/ecc4c637014a5346188d22942276b6989edc09fa/mcp-server/README.md#L43",
+    "reason": "repository_administration_not_interview_question"
+  },
+  {
+    "id": "q-35ef7c3d1a6a40",
+    "source_url": "https://github.com/Exorust/TorchLeet/blob/ecc4c637014a5346188d22942276b6989edc09fa/mcp-server/README.md#L86",
+    "reason": "repository_administration_not_interview_question"
+  },
+  {
+    "id": "q-2f2ea1526faecc",
+    "source_url": "https://github.com/landedjobs/awesome-ai-engineer-interview/blob/7cbbd2d6a9b2e7390c044df345f54318f2a1b865/.github/ISSUE_TEMPLATE/add-a-question.md#L17",
+    "reason": "repository_administration_not_interview_question"
+  },
+  {
+    "id": "q-c03354a061960e",
+    "source_url": "https://github.com/landedjobs/awesome-ai-engineer-interview/blob/7cbbd2d6a9b2e7390c044df345f54318f2a1b865/.github/ISSUE_TEMPLATE/add-a-resource.md#L21",
+    "reason": "repository_administration_not_interview_question"
+  },
+  {
+    "id": "q-011e1ab4b92789",
+    "source_url": "https://github.com/landedjobs/awesome-ai-engineer-interview/blob/7cbbd2d6a9b2e7390c044df345f54318f2a1b865/.github/ISSUE_TEMPLATE/report-issue.md#L9",
+    "reason": "repository_administration_not_interview_question"
+  },
+  {
+    "id": "q-672bcc65f1297f",
+    "source_url": "https://github.com/landedjobs/awesome-ai-engineer-interview/blob/7cbbd2d6a9b2e7390c044df345f54318f2a1b865/.github/PULL_REQUEST_TEMPLATE.md#L3",
+    "reason": "repository_administration_not_interview_question"
+  },
+  {
+    "id": "q-6be63bc3b13d70",
+    "source_url": "https://github.com/landedjobs/awesome-ai-engineer-interview/blob/7cbbd2d6a9b2e7390c044df345f54318f2a1b865/.github/PULL_REQUEST_TEMPLATE.md#L17",
+    "reason": "repository_administration_not_interview_question"
+  },
+  {
+    "id": "q-06223ec302865f",
+    "source_url": "https://github.com/landedjobs/awesome-ai-engineer-interview/blob/7cbbd2d6a9b2e7390c044df345f54318f2a1b865/company/README.md#L88",
+    "reason": "navigation_or_answer_fragment"
+  },
+  {
+    "id": "q-8537b6bc500fd4",
+    "source_url": "https://github.com/landedjobs/awesome-ai-engineer-interview/blob/7cbbd2d6a9b2e7390c044df345f54318f2a1b865/content/04-evals-and-llm-as-judge.md#L9",
+    "reason": "navigation_or_answer_fragment"
+  }
+]

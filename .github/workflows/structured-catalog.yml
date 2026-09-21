@@ -1,0 +1,18 @@
+name: Check structured extraction manually
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          fetch-depth: 0
+      - name: Test question boundaries and validate saved catalog
+        run: |
+          python tools/test_catalog.py
+          python tools/extract_questions_v2.py --self-test
+          python tools/question_bank.py validate

@@ -1,0 +1,19 @@
+name: Refine existing interview snapshot manually
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  refine:
+    if: github.ref == 'refs/heads/expand/ai-interviews-20260920'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          fetch-depth: 0
+      - name: Test and validate a local refinement
+        run: |
+          python tools/test_catalog.py
+          python tools/refine_catalog.py
+          python tools/question_bank.py validate

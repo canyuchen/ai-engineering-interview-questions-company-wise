@@ -3,6 +3,7 @@
 from __future__ import annotations
 import argparse
 import json
+from collections import Counter
 import collect_sources as c
 import build_catalog as b
 import refine_catalog as r
@@ -30,13 +31,22 @@ def main() -> None:
         topics.discard('general')
         row['topics']=sorted(topics) or ['general']
         if row['kind']=='legacy_unverified':
-            # Do not turn a shared consumer-company section into six specific claims.
+            # Shared consumer-company sections are not six specific company claims.
             # enrich() restores exact section labels and explicit Asked at claims.
             row['companies']=original_labels.get(row['id'],[])
             row.pop('company_relation',None)
     c.save('questions.json',rows)
     b.enrich()
+    final_rows=json.loads((c.OUT/'questions.json').read_text(encoding='utf-8'))
+    sources=json.loads((c.OUT/'sources.json').read_text(encoding='utf-8'))
+    stats=json.loads((c.OUT/'stats.json').read_text(encoding='utf-8'))
+    stats['topic_count']=len(stats['counts_by_topic'])
+    assert stats['counts_by_topic']==dict(Counter(topic for row in final_rows for topic in row['topics']))
+    assert stats['company_label_count']==len({company for row in final_rows for company in row['companies']})
+    assert sum(source['questions_added'] for source in sources)==stats['counts_by_kind'].get('community_question_bank',0)
+    c.save('stats.json',stats)
     report=c.OUT/'REVIEW.md'
-    report.write_text(report.read_text(encoding='utf-8')+'\n## Rights and wrapper filtering\n\nArchived reprints with unverified file-level rights are excluded. Exclusion metadata (without copied question text) is retained in [excluded.json](excluded.json). Cross-reference wrappers are normalized and merged with their source records.\n',encoding='utf-8')
+    report.write_text(report.read_text(encoding='utf-8')+'\n## Rights and wrapper filtering\n\nArchived reprints with unverified file-level rights are excluded. Exclusion metadata (without copied question text) is retained in [excluded.json](excluded.json). Cross-reference wrappers are normalized and merged with their source records. Final source contributions, topic counts and company counts reconcile with the question records.\n',encoding='utf-8')
+    print('FINAL_RECONCILED_STATS\n'+json.dumps(stats,ensure_ascii=False,indent=2))
 
 if __name__=='__main__': main()
